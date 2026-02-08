@@ -33,6 +33,7 @@ configure/build your project, you shouldn't need to do anything else at this poi
 from cpptools to allow this extension to configure IntelliSense:
 
 ![image](https://user-images.githubusercontent.com/12818240/94731434-9d1e3380-0319-11eb-98c4-cb80218b1b8b.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fvscode-makefile-tools.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fvscode-makefile-tools?ref=badge_shield)
 
 If you don't see that message, or you accidentally dismissed it, you can grant Makefile Tools permission to
 configure IntelliSense by running the `C/C++: Change Configuration Provider...` command and selecting Makefile
@@ -94,3 +95,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 ## Data and telemetry
 
 This extension collects usage data and sends it to Microsoft to help improve our products and services. Collection of telemetry is controlled via the same setting provided by Visual Studio Code: `"telemetry.enableTelemetry"`. Read our [privacy statement](https://privacy.microsoft.com/en-us/privacystatement) to learn more.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fvscode-makefile-tools.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fvscode-makefile-tools?ref=badge_large)
